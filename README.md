@@ -13,8 +13,8 @@ This project uses **YOLOv8** and **Tesseract OCR** to detect individuals enterin
 ## ⚡ How to Run This Project on Google Colab
 
 ### **1️⃣ Open the Project in Google Colab**
-Click the button below to open the Colab Notebook:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_NOTEBOOK_LINK)
+
+
 
 ---
 
