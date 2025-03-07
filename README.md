@@ -31,6 +31,7 @@ uploaded = files.upload()  # Select and upload the CCTV footage
 Run the following command inside the Colab notebook to install required packages:
 
 !pip install ultralytics opencv-python pytesseract
+!apt-get install -y tesseract-ocr
 
 4️⃣ Run the Detection Script
 Once the dependencies are installed, execute the detection script:
